@@ -19,3 +19,5 @@ perro = Perro()
 
 hacer_sonido(gato)
 perro.sonido()
+
+# En resumen, el polimorfismo permite que un objeto pueda tener metodos con el mismo nombre pero comportamientos diferentes.
